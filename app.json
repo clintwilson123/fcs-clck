@@ -15,7 +15,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.clintwilson123.mygoals"
     },
     "web": {
       "bundler": "metro",
